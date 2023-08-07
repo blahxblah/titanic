@@ -36,8 +36,8 @@ $ fly launch
 ```
 $ docker build -t titanic:0.1.0 .
 $ docker images titanic
-REPOSITORY          TAG       IMAGE ID       CREATED          SIZE
-tatiatic-user-api   0.1.0     85e89f18771d   21 seconds ago   326MB
+REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
+titanic      0.1.0     6f01351e6fc3   21 seconds ago   326MB
 
 $ docker run -d --name titanic-api-010 -p 9010:9876 titanic:0.1.0
 
