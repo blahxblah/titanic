@@ -30,7 +30,8 @@
 - fly.io + docker
 ```
 # Create and configure a new app from source code or a Docker image.
-$ fly launch
+$ flyctl launch
+$ flyctl deploy
 ```
 
 ### reference
