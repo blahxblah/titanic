@@ -42,9 +42,8 @@ tatiatic-user-api   0.1.0     85e89f18771d   21 seconds ago   326MB
 $ docker run -d --name titanic-api-010 -p 9010:9876 titanic:0.1.0
 
 $ docker ps                      
-CONTAINER ID   IMAGE                     COMMAND                CREATED          STATUS          PORTS                           
-            NAMES
-a5d74c4c95c5   tatiatic-user-api:0.1.0   "java -jar /app.jar"   20 seconds ago   Up 19 seconds   0.0.0.0:9010->9876/tcp, :::9010->9876/tcp   tatiatic-user-api-010
+CONTAINER ID   IMAGE                   COMMAND                  CREATED         STATUS         PORTS                                              NAMES
+093d80e9536e   titanic:0.1.0           "java -jar /app.jar"     4 minutes ago   Up 4 minutes   0.0.0.0:9010->9876/tcp                             titanic-api-010
 ```
 
 ### reference
