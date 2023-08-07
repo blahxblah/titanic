@@ -12,22 +12,26 @@
 - gradle 8.2.1
 - springboot 3.1.2
 - docker
-  
+
 ### build
 - gradle clean build
 
 ### test
-- gradle tast
+- gradle test
 
 ### package
 - gradle bootJar
 
+### package & run
+- gradle bootJar
+- java -jar build/libs/titanic-0.1.0.jar
+
 # DEPLOY
 - fly.io + docker
 ```
-# i
-$ flyctl launch
+# Create and configure a new app from source code or a Docker image.
+$ fly launch
 ```
 
 ### reference
-https://spring.io/guides/topicals/spring-boot-docker/
+- https://spring.io/guides/topicals/spring-boot-docker/
