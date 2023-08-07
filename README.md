@@ -24,3 +24,10 @@
 
 # DEPLOY
 - fly.io + docker
+```
+# i
+$ flyctl launch
+```
+
+### reference
+https://spring.io/guides/topicals/spring-boot-docker/
