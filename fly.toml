@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for titanic-jenkins on 2023-08-07T14:05:33+09:00
+# fly.toml app configuration file generated for titanic-user-api-kjh on 2023-08-09T10:48:05+09:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "titanic-jenkins"
+app = "titanic-user-api-kjh"
 primary_region = "nrt"
 
 [build]
