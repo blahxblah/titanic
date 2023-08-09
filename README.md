@@ -4,6 +4,10 @@
 ![LGTM](https://i.lgtm.fun/2j9j.png)
 
 # Architecture
+- user-api : https://github.com/blahxblah/titanic / https://titanic-user-api-kjh.fly.dev
+- webapp : https://github.com/blahxblah/titanic-webapp / https://titanic-webapp-kjh.fly.dev
+- ml-aip : https://github.com/blahxblah/titanic-ml-api / https://titanic-ml-api-kjh.fly.dev
+
 ![image](https://github.com/dMario24/tatiatic-user-api/assets/134017660/31ade392-602a-4aaa-ba60-ea9ed8c40349)
 
 # DEV
